@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shah Awais Bukhari</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahawais5&label=Profile%20views&color=0e75b6&style=flat" alt="shahawais5" /> </p>
 
