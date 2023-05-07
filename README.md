@@ -1,4 +1,4 @@
-
+<div style="background-color: #000000">
 <h1 align="center">Hi 👋, I'm Shah Awais Bukhari</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
@@ -30,6 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahawais5&show_icons=true&locale=en" alt="shahawais5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahawais5&" alt="shahawais5" /></p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahawais5&repo=PerformanceSandBox&theme=dark#gh-dark-mode-only)](https://github.com/shahawais5/PerformanceSandBox#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahawais5&repo=PerformanceSandBox&theme=default#gh-light-mode-only)](https://github.com/shahawais5/PerformanceSandBox#gh-light-mode-only)
+  </div>
