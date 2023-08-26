@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **The Tech Skills...**
 
-- 💬 Ask me about **...**
+- 💬 Ask me about **Flutter, Dart, OOP, Firebase, Rest APIs etc...**
 
 - 📫 How to reach me **shahawaisbukhari@gmail.com**
 
