@@ -21,6 +21,14 @@
     <li>⚡ Fun fact: <strong>I think I'm not funny 😂</strong></li>
   </ul>
 
+  <h3 align="left" style="color: #FFA500;">Achievements:</h3>
+  <ul style="list-style-type: none;">
+    <li>🏆 Developed and published a successful app, "India Got Milk"</li>
+    <li>💼 Worked on multiple API integrations with Flutter and React Native</li>
+    <li>🎓 Continuous learning and upskilling in the latest tech trends</li>
+    <li>🚀 Contributed to open-source projects</li>
+  </ul>
+
   <h3 align="left" style="color: #FFA500;">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/@update_me_you" target="blank">
@@ -44,6 +52,9 @@
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactnative" width="40" height="40"/>
     </a>
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
       <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="androidStudio" width="40" height="40"/>
