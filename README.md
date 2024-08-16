@@ -23,7 +23,7 @@
 
   <h3 align="left" style="color: #FFA500;">Achievements:</h3>
   <ul style="list-style-type: none;">
-    <li>🏆 Developed and published a successful apps on Playstore and App Store</li>
+    <li>🏆 Developed and published a successful apps</li>
     <li>💼 Worked on multiple API integrations with Flutter and React Native</li>
     <li>🎓 Continuous learning and upskilling in the latest tech trends</li>
     <li>🚀 Contributed to open-source projects</li>
