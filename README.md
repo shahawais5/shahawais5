@@ -18,7 +18,7 @@
     <li>🌱 I’m currently learning <strong>The Tech Skills...</strong></li>
     <li>💬 Ask me about <strong>==> Flutter, React Native, Dart, OOP, Firebase, Rest APIs, etc...</strong></li>
     <li>📫 How to reach me: <strong>shahawaisbukhari@gmail.com</strong></li>
-    <li>⚡ Fun fact: <strong>I think I'm not funny 😂</strong></li>
+    <li>⚡ Fun fact: <strong> 😄 Your cleanest code can be still a garbage for some other guy.</strong></li>
   </ul>
 
   <h3 align="left" style="color: #FFA500;">Achievements:</h3>
